@@ -1,0 +1,34 @@
+The original mockup uses left-justified text and no hyphenation. Here it seems this was changed. 
+
+The RoHS picture is misnamed, it should be called product picture or something similar
+
+change history could be defined as an environment in the class as it is now it's very complex
+Consider that there can be multiple entries in the change history, add a second version (anything you want) in the example to show your intent
+
+the other tables always have the same format so they 
+
+why are you using !ht everywhere? 
+
+I understand using vspace within paracol, but in other places it shouldn't be necessary to use it so much
+
+Tables need to have always the same font size so I don't know why the exmaple shows how to modify that
+If resizing tables changes font size, then it should just not be allowed. 
+
+The default table should have the header always with the highlight and always be centered, can this be integrated in an environment?
+
+Our people should not use clearpage so I would remove it from the example
+
+The less micromanaging we allow outside the class, the better. 
+
+I need the template and example in a .zip so that I can test the flexibility of the template
+
+Boxes and parallel content: people should not use these outside of the front page, and the front page should always have the same format. Can we just abstract all this away? 
+Example: the front page environment just allows you to add using tags: 
+- text
+- highlights
+specify a max length for these
+- product picture
+- product diagram
+specify a size for these
+- related products, this can be left as is (but consider the comment above about increasing the table abstraction by using environments)
+the title should be the same variable as the product name used in the header on the following pages, here it being different is a mistake that will be fixed later

@@ -1,0 +1,18 @@
+General:
+
+- Font: Please use the font “Source Sans Pro.”
+- Chapter numbering: Please do not use periods at the end (good example: 7.1 and 7; bad example: 7.1. and 7.).
+- Please link the Meerstetter logo to the website (www.meerstetter.ch).
+- Please highlight all text links in color (hex #4D4D99).
+
+Page 1:
+
+- Please link TEC-1161 in the introductory text to the product page (as in the PDF mockup).
+- Please center the highlight box (Trial Device & Technical Support) next to the TEC controller block diagram.
+- Highlight box: Please ensure that links do not have line breaks
+- Text at the bottom of the page: Please link “full product overview” with scroll-to to the “All Meerstetter Products” section
+
+“All Meerstetter Products” section:
+
+- As the penultimate page before the change history
+- Products should be linked to the product page as in the PDF mockup
